@@ -1,4 +1,4 @@
-# Website Watcher
+# Page Watcher
 
 A lightweight Python script that monitors web pages for changes and sends email notifications when updates are detected. Perfect for monitoring websites that don't provide RSS feeds or change notifications.
 
